@@ -1,0 +1,29 @@
+🚀 **YT CLONE – DEVELOPMENT HAS BEGUN!**
+
+I'm excited to announce that development of my YT Clone project has officially started!
+
+I've completed the main development prompt and created the initial project architecture and file structure. The goal is to recreate **YouTube itself, not just build a similar platform.**
+
+🎬 **Planned Features:**
+- Complete YouTube interface and functionality
+- Video uploads, playback, likes and comments
+- User accounts, channels and subscriptions
+- Playlists, watch history and notifications
+- Live streaming
+- A complete YouTube Studio with all its pages and tools
+- Premium memberships and subscription management
+- Advertisements for non-Premium users
+- Revenue and channel analytics
+
+⚙️ **Technology Stack:**
+- TypeScript
+- PostgreSQL
+- Next.js
+- shadcn/ui
+- Magic UI
+
+Every feature and bug fix will have its own Git commit to keep development organized and transparent.
+
+This is a large-scale project, and development is still in its early stages.
+
+🔥 **The first version is coming soon. Stay tuned!**
